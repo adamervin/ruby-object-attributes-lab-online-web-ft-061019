@@ -16,5 +16,5 @@ def job
   @job
 end 
 end 
-singer = Person.new 
-singer.job = "Singer"
+si = Person.new 
+si.job = "Singer"
