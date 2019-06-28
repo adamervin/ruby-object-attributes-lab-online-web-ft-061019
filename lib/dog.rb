@@ -5,7 +5,7 @@ class Dog
     
   end 
   
-  def pets(name,breed)
+  def pets(full_dog)
     name,breed = full_dog.split
     @name =  name 
     @breed = breed
