@@ -1,2 +1,2 @@
 class Dog 
-  instianizilize 
+  initialize
