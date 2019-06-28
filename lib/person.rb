@@ -17,6 +17,6 @@ def job
 end 
 beyonce =  Person.new
 beyonce.job = "Singer"
-end
+
 
 
