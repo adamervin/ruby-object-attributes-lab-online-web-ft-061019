@@ -12,3 +12,4 @@ class Dog
 end 
 
 def pets
+  "#{name}#{breed}"
