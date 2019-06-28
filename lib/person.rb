@@ -15,5 +15,6 @@ end
 def job 
   @job
 end 
+end 
 singer = Person.new 
 singer.name = "Singer"
