@@ -5,6 +5,6 @@ class Dog
     
   end 
   
-  def pets 
+  def pets (name,breed)
     
 end 
