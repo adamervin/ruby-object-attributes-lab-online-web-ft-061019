@@ -9,4 +9,11 @@ class Person
   beyonce = Person.new 
   beyonce.name = "beyonce"
 end 
+def job=(job)
+  @job = job 
+end 
+def job
+  @job 
+end 
+beyonce.job = "beyonce "
 
