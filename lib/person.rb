@@ -5,7 +5,15 @@ class Person
   def name 
     @name 
   end 
-end 
+
   beyonce = Person.new 
   beyonce.name = "beyonce"
 
+def job(job)
+  @job = job 
+end 
+def job 
+  @job
+end 
+singer = Person.new 
+singer.name = "Singer"
