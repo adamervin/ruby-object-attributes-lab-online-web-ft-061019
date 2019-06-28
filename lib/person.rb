@@ -15,7 +15,7 @@ end
 def job
   @job 
 end 
-beyonce = job
+beyonce = job.new
 beyonce.job = "Singer"
 
 
