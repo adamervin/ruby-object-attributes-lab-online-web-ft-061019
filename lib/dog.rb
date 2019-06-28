@@ -5,10 +5,10 @@ class Dog
     
   end 
   
-  def pets (name,breed)
+  def pets(name,breed)
     @name =  name 
     @breed = breed
     
 end 
 
-def 
+def pets
