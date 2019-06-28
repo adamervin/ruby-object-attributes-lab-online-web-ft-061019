@@ -17,6 +17,7 @@ def job
 end 
 jobs = Person.new
 jobs.job = "Singer"
+end 
 
 
 
