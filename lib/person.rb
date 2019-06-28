@@ -15,6 +15,7 @@ end
 def job 
   @job
 end 
-end 
+
 si = Person.new 
 si.job = "Singer"
+end
