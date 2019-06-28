@@ -12,4 +12,4 @@ class Dog
 end 
 
 def pets
-  "#{name}#{breed}"
+  "#{name} #{breed}.strip"
