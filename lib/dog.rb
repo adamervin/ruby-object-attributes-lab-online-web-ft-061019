@@ -6,5 +6,8 @@ class Dog
   end 
   
   def pets (name,breed)
+    @name =  name 
+    @breed = breed
     
 end 
+
