@@ -4,4 +4,7 @@ class Dog
     @breed = breed
     
   end 
+  
+  def pets 
+    
 end 
