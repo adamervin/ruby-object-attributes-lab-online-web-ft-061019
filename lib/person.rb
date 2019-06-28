@@ -6,6 +6,6 @@ class Person
     @name 
   end 
 end 
-  beyonce = People.new 
-  beyonce.people = "beyonce"
+  beyonce = Person.new 
+  beyonce.name = "beyonce"
 
