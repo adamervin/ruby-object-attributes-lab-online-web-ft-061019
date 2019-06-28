@@ -13,3 +13,5 @@ end
 
 def pets
   "#{name} #{breed}".strip
+end 
+end 
