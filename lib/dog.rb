@@ -7,6 +7,6 @@ def breed=(breed)
   @breed = breed
 end
 def name
-  "#{name}#{breed}"
+  "#{name} #{breed}"
 end 
 end 
