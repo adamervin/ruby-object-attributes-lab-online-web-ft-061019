@@ -5,14 +5,13 @@ class Dog
     
   end 
   
-  def pets(full_dog)
-    name,breed = full_dog.split
+  def pets
     @name =  name 
     @breed = breed
     
 end 
 
 def pets
-  "#{name} #{breed}".strip
+  "#{name} #{breed}"
 end 
 end 
