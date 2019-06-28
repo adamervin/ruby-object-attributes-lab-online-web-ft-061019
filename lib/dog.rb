@@ -1,6 +1,6 @@
 class Dog 
    
-  def pets
+  def 
     @name =  name 
     @breed = breed
     
