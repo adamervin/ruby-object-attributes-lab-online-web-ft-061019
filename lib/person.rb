@@ -16,5 +16,5 @@ def job
   @job 
 end 
 beyonce.job = "Singer"
-end 
+
 
