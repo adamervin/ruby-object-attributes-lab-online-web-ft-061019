@@ -5,6 +5,7 @@ class Person
   def name 
     @name 
   end 
+end 
   beyonce = People.new 
   beyonce.people = "beyonce"
 
